@@ -9,7 +9,7 @@ setup(
     license='MIT License',
     author='Mego',
     author_email='Mego@users.noreply.github.com',
-    description='Making rolling dice way more complicated',
+    description='Making rolling dice way more complicated than it needs to be',
     entry_points={
         'console_scripts': [
             'tymora = tymora:main',
